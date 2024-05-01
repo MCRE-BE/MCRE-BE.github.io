@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What you need to know about that belgian guy
 ---
 
 - I'm a Business Engineer based in 🇫🇷 Valence 🇫🇷 but coming from 🇧🇪 Antwerp 🇧🇪
