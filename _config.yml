@@ -36,7 +36,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/path/to/picture_company.png"
+title-img: "/assets/img/picture_company.png"
 
 
 #####################################
@@ -54,7 +54,7 @@ social-network-links:
   twitter: MathiasCreemers
 #  patreon: DeanAttali
   youtube: "@Apotygma"
-  whatsapp: 15551212
+#  whatsapp: 15551212
   medium: "mathias.creemers"
 #  reddit: yourname
   linkedin: mcreemers
@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
