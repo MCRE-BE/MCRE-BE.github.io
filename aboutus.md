@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Corporate Presentation
+title: About Us
 subtitle: What we can do for you.
 ---
 
