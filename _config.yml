@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Creemers Consulting Company Website
+title: Creemers Consulting
 
 # Your name to show in the footer
 author: Mathias Creemers
@@ -20,8 +20,8 @@ author: Mathias Creemers
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  About Us : "aboutus"
+  Your Consultant :  "aboutme"
+  Our Offer : "aboutus"
 
 ################
 # --- Logo --- #
@@ -29,14 +29,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/picture_of_me.jpg"
+avatar: "/assets/img/picture_company.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/picture_company.png"
+# title-img: "/assets/img/picture_company_name.png"
 
 
 #####################################
@@ -48,11 +48,9 @@ title-img: "/assets/img/picture_company.png"
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "creemers.consulting@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: mathias.creemers
   github: MCRE-BE
   twitter: MathiasCreemers
-#  patreon: DeanAttali
   youtube: "@Apotygma"
 #  whatsapp: 15551212
   medium: "mathias.creemers"
@@ -60,25 +58,6 @@ social-network-links:
   linkedin: mcreemers
 #  xing: yourname
 #  stackoverflow: "20716078/apotygma"
-#  snapchat: yourname
-#  instagram: yourname
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: yourname
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code" 
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-#  itchio: yourname
-#  untappd: yourname
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -109,13 +88,13 @@ excerpt_length: 50
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
@@ -123,7 +102,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "valence,intelligence artificiel, ai, business, analystics, analyses"
 
 ######################################
 # --- Colours / background image --- #
@@ -272,8 +251,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      comments: false  # add comments to all blog posts
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
