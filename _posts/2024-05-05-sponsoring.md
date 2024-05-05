@@ -2,8 +2,8 @@
 layout: post
 title: Fast & Fargère
 subtitle: Fière partenaire et supporter.
-cover-img: "assets/img/_01_Fast_n_fargere.png"
-share-img: "assets/img/_01_Fast_n_fargere.png"
+cover-img: "assets/img/fast_fargere.png"
+share-img: "assets/img/fast_fargere.png"
 ---
 
 🇫🇷 Je suis content de vous annoncer mon partenariat avec l'équipe Fast & Fargère. L'année 2024 a déjà été riche en succès et s'annonc déjà réussite avec la victoire au classement général du championnat de ligue de karting Rhône-Alpes KA100. Curieux de voire ce que ce jeune prodige va faire pendant les années qui viennent. 
