@@ -6,7 +6,7 @@ title: About me
 ## 👨🏻‍💻 That belgian guy
 
 - I'm a Business Engineer based in 🇫🇷 Valence 🇫🇷 but coming from 🇧🇪 Antwerp 🇧🇪
-- I am the owner of <a href="/aboutus">Creemers Consulting</a>
+- I am the owner of <a href="/aboutus - en">Creemers Consulting</a>
 - I focus on data engineering & analysis, focusing on bridging the gap between IT, BI and Business.
 - I occupied roles as Data Engineer, Project Manager or Warehouse Automation Manager.
 - On tech side, contributions are in data analysis, reporting, ETL and timeseries based AI.
