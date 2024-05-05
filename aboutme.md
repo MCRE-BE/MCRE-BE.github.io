@@ -16,7 +16,7 @@ title: About me
 
 I am not a technology expert, but a savy business user that is able to understand your problems and translate them to solutions.
 
-## 📝 My carreer
+## 📝 My career
 
 I started in 2013 at Delhaize Belgium (now part of Ahold Delhaize) as a management trainee. I spent 10 years within the company moving through different roles in the Supply Chain and Logistics organization. From pure operational roles, to tactical and strategic projects, I realized more and more than my main added value was in data crunching. I liked working with data and spending hours building and finetuning reports or models.
 
