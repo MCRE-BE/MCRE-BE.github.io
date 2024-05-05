@@ -4,6 +4,8 @@ title: About Us
 subtitle: What we can do for you.
 ---
 
+<p style="text-align: center;"><a href="/aboutus - fr">🇫🇷 Version FR 🇫🇷</a></p>
+
 # 👨🏻‍💻 About Us
 
 Welcome to Creemers Consulting, your trusted partner for data solutions. Based in Valence, ARA, I specialize in providing top-notch consulting services to help businesses harness the power of data. Whether you need analysis work, the development of an MVP or project management tasks, I provide comprehensive expertise to help you make data-driven decisions and unlock your business's full potential.
