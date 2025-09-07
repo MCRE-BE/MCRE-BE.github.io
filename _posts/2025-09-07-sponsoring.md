@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Partenariat avec Fast & Fargère : En route pour 2025 !"
+title: "Partenariat 2025 avec Fast & Fargère 2025!"
 subtitle: "Fier de soutenir les champions de demain."
 cover-img: "assets/img/fast_fargere.png"
 share-img: "assets/img/fast_fargere.png"

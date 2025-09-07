@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fast & Fargère
+title: Fast & Fargère partenariat 2024 !
 subtitle: Fière partenaire et supporter.
 cover-img: "assets/img/fast_fargere.png"
 share-img: "assets/img/fast_fargere.png"
