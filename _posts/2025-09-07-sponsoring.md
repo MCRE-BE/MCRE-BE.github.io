@@ -13,7 +13,7 @@ Après une saison 2024 couronnée de succès, marquée par une victoire éclatan
 
 Je suis impatient de suivre leurs prochaines courses et de vibrer au rythme de leurs exploits tout au long de la saison à venir. L'avenir s'annonce radieux, et je suis honoré de faire partie de cette aventure.
 
-Je vous invite à vous joindre à moi pour les encourager ! Suivez leurs performances sur leur page <a href="https://www.facebook.com/profile.php?id=61551105113860" target="_blank" rel="noopener noreferrer">Facebook</a> et découvrez comment vous pouvez également les soutenir en consultant <a href="/assets/pdf/_flyer_fast_n_fargere_2025.pdf" target="_blank">leur flyer de sponsoring pour 2025</a>.
+Je vous invite à vous joindre à moi pour les encourager ! Suivez leurs performances sur leur page <a href="https://www.facebook.com/profile.php?id=61551105113860" target="_blank" rel="noopener noreferrer">Facebook</a> et découvrez comment vous pouvez également les soutenir en consultant <a href="/assets/pdf/flyer_fast_n_fargere_2025.pdf" target="_blank">leur flyer de sponsoring pour 2025</a>.
 
 🇬🇧 It is with immense pride that I announce my support for the **Fast & Fargère** karting team for the 2025 season!
 
@@ -21,4 +21,4 @@ After a successful 2024 season, marked by a brilliant victory in the general cla
 
 I can't wait to follow their upcoming races and feel the excitement of their achievements throughout the coming season. The future looks bright, and I am honored to be part of this adventure.
 
-I invite you to join me in cheering them on! Follow their performance on their <a href="https://www.facebook.com/profile.php?id=61551105113860" target="_blank" rel="noopener noreferrer">Facebook page</a> and discover how you can also support them by checking out <a href="/assets/pdf/_flyer_fast_n_fargere_2025.pdf" target="_blank">their 2025 sponsorship flyer</a>.
+I invite you to join me in cheering them on! Follow their performance on their <a href="https://www.facebook.com/profile.php?id=61551105113860" target="_blank" rel="noopener noreferrer">Facebook page</a> and discover how you can also support them by checking out <a href="/assets/pdf/flyer_fast_n_fargere_2025.pdf" target="_blank">their 2025 sponsorship flyer</a>.
