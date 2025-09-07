@@ -12,10 +12,8 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
-# # This will help ensure your site builds with the same dependencies as GitHub Pages
-# gem "github-pages", group: :jekyll_plugins
-
 # You can also add gems explicitly, though it's included in `github-pages`
 gem "jekyll-minifier"
+gem "jekyll-seo-tag"
 
 gemspec
