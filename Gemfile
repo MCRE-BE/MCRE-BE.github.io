@@ -4,3 +4,5 @@ source "https://rubygems.org"
 
 gemspec
 
+# This will help ensure your site builds with the same dependencies as GitHub Pages
+gem "github-pages", group: :jekyll_plugins
