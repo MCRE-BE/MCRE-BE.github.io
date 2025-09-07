@@ -79,6 +79,9 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 url-pretty: "http://www.creemers-consulting.com/"
 
+# The base hostname & protocol for your site, e.g. http://example.com
+url: "https://MCRE-BE.github.io"
+
 # Add the website title to the title of every page
 title-on-all-pages: true
 
@@ -102,8 +105,8 @@ edit_page_button: false
 # See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
 navbar-var-length: false
 
-# The keywords to associate with your website, for SEO purposes
-keywords: "valence,intelligence artificiel, ai, business, analystics, analyses"
+# The keywords to associate with your website, for SEO purposes.
+keywords: "valence, intelligence artificielle, ai, business, analytics, analyses, consulting"
 
 ######################################
 # --- Colours / background image --- #
@@ -235,7 +238,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Valence"
+timezone: "Europe/Paris"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -275,4 +278,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-minifier
-
+  - jekyll-seo-tag
