@@ -1,0 +1,92 @@
+[project]
+
+# The site_name is shown in the page header and the browser window title
+site_name = "Creemers Consulting"
+
+# The site_description is included in the HTML head and should contain a
+# meaningful description of the site content for use by search engines.
+site_description = "Business, AI & BI Consulting"
+
+# The site_author attribute. This is used in the HTML head element.
+site_author = "Mathias Creemers"
+
+# The site_url is the canonical URL for your site. When building online
+# documentation you should set this.
+site_url = "https://MCRE-BE.github.io"
+
+# The copyright notice appears in the page footer and can contain an HTML
+# fragment.
+copyright = "Copyright &copy; Mathias Creemers"
+
+nav = [
+    {"Home" = "index.md"},
+    {"Your Consultant" = "aboutme.md"},
+    {"Our Offer" = "aboutus - en.md"},
+    {"Blog" = "blog/index.md"}
+]
+
+extra_css = ["assets/css/index.css"]
+extra_javascript = ["assets/js/index.js"]
+
+[project.theme]
+logo = "assets/img/picture_company_name.png"
+features = [
+    "announce.dismiss",
+    "content.code.annotate",
+    "content.code.copy",
+    "content.code.select",
+    "content.footnote.tooltips",
+    "content.tabs.link",
+    "content.tooltips",
+    "navigation.footer",
+    "navigation.indexes",
+    "navigation.instant",
+    "navigation.instant.prefetch",
+    "navigation.path",
+    "navigation.sections",
+    "navigation.top",
+    "navigation.tracking",
+    "search.highlight",
+]
+
+[[project.theme.palette]]
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to light mode"
+
+[[project.extra.social]]
+icon = "fontawesome/solid/envelope"
+link = "mailto:creemers.consulting@gmail.com"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/facebook"
+link = "https://facebook.com/mathias.creemers"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/MCRE-BE"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/x-twitter"
+link = "https://twitter.com/MathiasCreemers"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/youtube"
+link = "https://youtube.com/@Apotygma"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/medium"
+link = "https://medium.com/@mathias.creemers"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/linkedin"
+link = "https://linkedin.com/in/mcreemers"
+
+[project.extra.analytics]
+provider = "google"
+property = "G-X84TNKSWS6"
