@@ -20,8 +20,11 @@ author: Mathias Creemers
 ###############################################
 
 navbar-links:
-  Your Consultant :  "aboutme"
-  Our Offer : "aboutus - en"
+  "Your Consultant":
+    - "About me": "aboutme-en"
+    - "My Career": "mycareer-en"
+    - "Tech Stack": "techstack-en"
+  Our Offer: "aboutus-en"
   Blog : "blog"
 
 ################
