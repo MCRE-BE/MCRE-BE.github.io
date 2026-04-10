@@ -4,7 +4,7 @@ title: About Us
 subtitle: What we can do for you.
 ---
 
-<p style="text-align: center;"><a href="/aboutus - fr">🇫🇷 Version FR 🇫🇷</a></p>
+<p style="text-align: center;"><a href="/aboutus-en">🇬🇧 EN</a> | <a href="/aboutus-fr">🇫🇷 FR</a> | <a href="/aboutus-nl">🇳🇱 NL</a></p>
 
 # 👨🏻‍💻 About Us
 
@@ -16,4 +16,4 @@ I believe in the power of data. I am committed to helping you make the most of i
 
 # 🤝 Meet the team
 
-<a href="/aboutme">Get to know me.</a>
+<a href="/aboutme-en">Get to know me.</a>

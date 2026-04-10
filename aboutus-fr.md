@@ -4,7 +4,7 @@ title: A propos de nous
 subtitle: Ce que nous pouvons faire pour vous.
 ---
 
-<p style="text-align: center;"><a href="/aboutus - en">🇬🇧 English Version 🇬🇧</a></p>
+<p style="text-align: center;"><a href="/aboutus-en">🇬🇧 EN</a> | <a href="/aboutus-fr">🇫🇷 FR</a> | <a href="/aboutus-nl">🇳🇱 NL</a></p>
 
 # 👨🏻‍💻 A propos
 
@@ -17,4 +17,4 @@ Je crois en la puissance de la data. Je m'engage à vos côtés, pour vous aider
 
 # 🤝 L'équipe
 
-<a href="/aboutme">Apprennez à me connaitre</a>
+<a href="/aboutme-fr">Apprennez à me connaitre</a>
