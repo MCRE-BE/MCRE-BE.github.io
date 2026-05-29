@@ -3,28 +3,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/nl/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/nl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/categories/"
-                />
-  </url><url>
     <loc>/nl/</loc>
     <xhtml:link
                 rel="alternate"
@@ -45,6 +23,28 @@
                 rel="alternate"
                 hreflang="de"
                 href="/de/"
+                />
+  </url><url>
+    <loc>/nl/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/nl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/categories/"
                 />
   </url><url>
     <loc>/nl/blog/2024-05-05-sponsoring/</loc>

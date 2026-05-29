@@ -4,15 +4,15 @@
   "license": "MIT",
   "author": "gethugothemes",
   "scripts": {
-    "dev": "concurrently \"node scripts/themeGenerator.js --watch\" \"hugo server\"",
-    "build": "node scripts/themeGenerator.js && hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
-    "preview": "node scripts/themeGenerator.js && hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
-    "dev:example": "concurrently \"node scripts/themeGenerator.js --watch\" \"hugo server -s exampleSite --themesDir ../..\"",
-    "build:example": "node scripts/themeGenerator.js && cd exampleSite && hugo --themesDir ../.. --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
-    "preview:example": "node scripts/themeGenerator.js && cd exampleSite && hugo server --themesDir ../.. --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
-    "update-modules": "node ./scripts/clearModules.js && hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy",
-    "project-setup": "node ./scripts/projectSetup.js",
-    "theme-setup": "node ./scripts/themeSetup.js"
+    "dev": "concurrently \"node themes/bigspring-light-hugo/scripts/themeGenerator.js --watch\" \"hugo server\"",
+    "build": "node themes/bigspring-light-hugo/scripts/themeGenerator.js && hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
+    "preview": "node themes/bigspring-light-hugo/scripts/themeGenerator.js && hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
+    "dev:example": "concurrently \"node themes/bigspring-light-hugo/scripts/themeGenerator.js --watch\" \"hugo server -s exampleSite --themesDir ../..\"",
+    "build:example": "node themes/bigspring-light-hugo/scripts/themeGenerator.js && cd exampleSite && hugo --themesDir ../.. --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
+    "preview:example": "node themes/bigspring-light-hugo/scripts/themeGenerator.js && cd exampleSite && hugo server --themesDir ../.. --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
+    "update-modules": "node ./themes/bigspring-light-hugo/scripts/clearModules.js && hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy",
+    "project-setup": "node ./themes/bigspring-light-hugo/scripts/projectSetup.js",
+    "theme-setup": "node ./themes/bigspring-light-hugo/scripts/themeSetup.js"
   },
   "devDependencies": {
     "@tailwindcss/cli": "^4.1.1",

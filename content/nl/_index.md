@@ -1,57 +1,55 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Résolvons vos défis critiques de développement de site web"
+  title : "Laat ons uw kritieke uitdagingen op het gebied van websiteontwikkeling oplossen"
   image : "images/banner-art.svg"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
   button:
     enable : true
-    label : "Contact Us"
+    label : "Neem Contact Op"
     link : "contact/"
 
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "Wat u moet weten"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
+    - name : "Schone Code"
       icon : "fas fa-code"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Object Oriented"
+    - name : "Objectgeoriënteerd"
       icon : "fas fa-object-group"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "24h Service"
+    - name : "24u Service"
       icon : "fas fa-user-clock"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Value For Money"
+    - name : "Waar voor uw geld"
       icon : "fas fa-heart"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Faster Response"
+    - name : "Snelle Reactie"
       icon : "fas fa-tachometer-alt"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Cloud Support"
+    - name : "Cloud Ondersteuning"
       icon : "fas fa-cloud"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-
 
 ######################### Service #####################
 service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "Het is het meest geavanceerde digitale marketing- en IT-bedrijf."
       images:
       - "images/service-1.png"
       - "images/service-2.png"
@@ -59,55 +57,53 @@ service:
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : true
-        label : "Check it out"
+        label : "Bekijk het"
         link : "#"
         
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "Het is een particulier informatie- en cyberbeveiligingsbedrijf"
       images:
       - "images/service-1.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : true
-        label : "Check it out"
+        label : "Bekijk het"
         link : "#"
         
     # service item loop
-    - title : "It’s a team of experienced and skilled people with distributions"
+    - title : "Het is een team van ervaren en bekwame mensen met distributies"
       images:
       - "images/service-2.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : true
-        label : "Check it out"
+        label : "Bekijk het"
         link : "#"
         
     # service item loop
-    - title : "A company standing different from others"
+    - title : "Een bedrijf dat zich onderscheidt van anderen"
       images:
       - "images/service-3.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : true
-        label : "Check it out"
+        label : "Bekijk het"
         link : "#"
         
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "Experience the best <br> workflow with us"
+  title : "Ervaar de beste <br> workflow met ons"
   image : "images/screenshot.svg"
-
-  
 
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
+  title : "Klaar om te beginnen?"
   image : "images/cta.svg"
   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
   button:
     enable : true
-    label : "Contact Us"
+    label : "Neem Contact Op"
     link : "contact/"
 ---
