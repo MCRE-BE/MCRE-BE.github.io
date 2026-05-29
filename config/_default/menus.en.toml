@@ -1,0 +1,66 @@
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Your Consultant"
+identifier = "consultant"
+weight = 2
+
+[[main]]
+name = "About me"
+url = "/aboutme"
+parent = "consultant"
+weight = 1
+
+[[main]]
+name = "My Career"
+url = "/mycareer"
+parent = "consultant"
+weight = 2
+
+[[main]]
+name = "Tech Stack"
+url = "/techstack"
+parent = "consultant"
+weight = 3
+
+[[main]]
+name = "Our Offer"
+url = "/aboutus"
+weight = 3
+
+[[main]]
+name = "Blog"
+url = "/blog"
+weight = 4
+
+[[main]]
+name = "Contact"
+url = "/contact"
+weight = 5
+
+# footer menu left
+[[footer_left]]
+name = "Our Offer"
+url = "/aboutus"
+
+[[footer_left]]
+name = "About me"
+url = "/aboutme"
+
+# footer menu middle
+[[footer_middle]]
+name = "My Career"
+url = "/mycareer"
+
+[[footer_middle]]
+name = "Tech Stack"
+url = "/techstack"
+
+# footer menu right
+[[footer_right]]
+name = "Contact"
+url = "/contact"

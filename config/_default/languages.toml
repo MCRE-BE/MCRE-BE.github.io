@@ -1,0 +1,38 @@
+################################### English language #####################################
+[en]
+label = "EN"
+locale = "en"
+contentDir = "content/en"
+weight = 1
+[en.params]
+########### footer content ##########
+footer_menu_left = "Company"
+footer_menu_middle = "Products"
+footer_menu_right = "Support"
+footer_content = "Creemers Consulting - Your partner in AI and Business Analytics."
+
+################################### French language #####################################
+[fr]
+label = "FR"
+locale = "fr"
+contentDir = "content/fr"
+weight = 2
+[fr.params]
+########### footer content ##########
+footer_menu_left = "Entreprise"
+footer_menu_middle = "Produits"
+footer_menu_right = "Support"
+footer_content = "Creemers Consulting - Votre partenaire en IA et Business Analytics."
+
+################################### Dutch language #####################################
+[nl]
+label = "NL"
+locale = "nl"
+contentDir = "content/nl"
+weight = 3
+[nl.params]
+########### footer content ##########
+footer_menu_left = "Bedrijf"
+footer_menu_middle = "Producten"
+footer_menu_right = "Ondersteuning"
+footer_content = "Creemers Consulting - Uw partner in AI en Business Analytics."
